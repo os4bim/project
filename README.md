@@ -17,7 +17,7 @@ Vous pouvez tester ce script via RevitPythonShell en ouvrant une feuille excel v
 
 ### BOM_to_Excel_Pipes_System_type.py
 
-I modified the python file from the python4revit folder so you can test it from your Revit session.
+I modified the python file from the [python4revit](https://github.com/os4bim/python4revit) folder so you can test it from your Revit session.
 You have to set the angle at line 25 according to your Revit template.
 
 The program can be improved because for now it doesn't work if there is not at least one segment length, one fitting and one accessory per circuit. We could imagine introducing a N/A field for this case.
